@@ -1,3 +1,3 @@
-<h1 align="center">Hi,I'm Nayra Ashraf🌱</h1>
+<h1 align="center" color="red">Hi,I'm Nayra Ashraf🌱</h1>
   Front-end Developer
 
